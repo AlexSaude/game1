@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    padding: 20%;
+}
+.page{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}

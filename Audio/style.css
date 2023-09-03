@@ -1,0 +1,11 @@
+body{
+    background-image: url(ceu.jpg);
+}
+button{
+    border-radius: 25%;
+}
+.page{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
